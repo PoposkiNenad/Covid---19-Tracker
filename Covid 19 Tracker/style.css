@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+}
+
+#confirmed {
+    color: blue;
+}
+#recovered {
+    color: green;
+}
+#deaths {
+    color: red;
+}
+#active {
+    color: yellow;
+}
+#title {
+    font-weight: bolder;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input{
+    border-radius: 5px;
+    
+}
